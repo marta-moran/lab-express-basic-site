@@ -1,0 +1,48 @@
+header {
+    text-align: center;
+}
+
+.img-celebrity {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around
+}
+
+.img-celebrity img {
+    width: 20%;
+}
+
+main {
+    margin: 30px 100px;
+}
+
+
+
+.about {
+    width: 80%;
+}
+
+.about h1 {
+    margin-top: 40px;
+}
+
+.about-section {
+    display: flex;
+    justify-content: flex-start;
+    align-items: stretch
+}
+
+.about-section>div {
+    width: 60%;
+}
+
+
+.about-section img {
+    width: 40%;
+    margin-left: 70px;
+}
+
+.carrusel {
+    width: 30%;
+    margin: 0 auto;
+}
